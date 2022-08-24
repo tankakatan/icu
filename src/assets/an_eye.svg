@@ -1,0 +1,83 @@
+<svg width="88" height="44" viewBox="0 0 88 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="an_eye">
+<rect width="88" height="44" fill="white"/>
+<g id="eye">
+<g id="sclera_and_vessels">
+<path id="sclera" d="M44 0C28 0 16 22 0 22C16 22 28 44 44 44C60 44 72 22 88 22C72 22 60 0 44 0Z" fill="white"/>
+<path id="vessels" d="M44 0C28 0 16 22 0 22C16 22 28 44 44 44C60 44 72 22 88 22C72 22 60 0 44 0Z" fill="url(#paint0_radial_34_16)"/>
+<path id="sclera_shadow" d="M44 0C28 0 16 22 0 22C16 22 28 44 44 44C60 44 72 22 88 22C72 22 60 0 44 0Z" fill="url(#paint1_radial_34_16)"/>
+</g>
+<g id="cornea_mask">
+<mask id="mask0_34_16" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="88" height="44">
+<path id="sclera_mask" d="M44 0C28 0 16 22 0 22C16 22 28 44 44 44C60 44 72 22 88 22C72 22 60 0 44 0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_34_16)">
+<g id="cornea">
+<g id="iris_and_overlay">
+<circle id="iris" cx="44" cy="22" r="22" fill="#8BACDD"/>
+<circle id="overlay" cx="44" cy="22" r="22" fill="url(#paint2_radial_34_16)"/>
+</g>
+<g id="pupil_and_dilator">
+<path id="dilator" d="M44 0L44.8373 6.02353L46.2996 0.120518L46.5027 6.19857L48.5741 0.480753L48.1407 6.54673L50.7984 1.07676L49.7333 7.06421L52.9482 1.902L51.2631 7.74532L55 2.94744L52.7134 8.58261L56.9313 4.20163L54.0681 9.56691L58.7209 5.65081L55.3126 10.6874L60.3492 7.27913L56.4331 11.9319L61.7984 9.06872L57.4174 13.2866L63.0526 11L58.2547 14.7369L64.098 13.0518L58.9358 16.2667L64.9232 15.2016L59.4533 17.8593L65.5192 17.4259L59.8014 19.4973L65.8795 19.7004L59.9765 21.1627L66 22L59.9765 22.8373L65.8795 24.2996L59.8014 24.5027L65.5192 26.5741L59.4533 26.1407L64.9232 28.7984L58.9358 27.7333L64.098 30.9482L58.2547 29.2631L63.0526 33L57.4174 30.7134L61.7984 34.9313L56.4331 32.0681L60.3492 36.7209L55.3126 33.3126L58.7209 38.3492L54.0681 34.4331L56.9313 39.7984L52.7134 35.4174L55 41.0526L51.2631 36.2547L52.9482 42.098L49.7333 36.9358L50.7984 42.9232L48.1407 37.4533L48.5741 43.5192L46.5027 37.8014L46.2996 43.8795L44.8373 37.9765L44 44L43.1627 37.9765L41.7004 43.8795L41.4973 37.8014L39.4259 43.5192L39.8593 37.4533L37.2016 42.9232L38.2667 36.9358L35.0518 42.098L36.7369 36.2547L33 41.0526L35.2866 35.4174L31.0687 39.7984L33.9319 34.4331L29.2791 38.3492L32.6874 33.3126L27.6508 36.7209L31.5669 32.0681L26.2016 34.9313L30.5826 30.7134L24.9474 33L29.7453 29.2631L23.902 30.9482L29.0642 27.7333L23.0768 28.7984L28.5467 26.1407L22.4808 26.5741L28.1986 24.5027L22.1205 24.2996L28.0235 22.8373L22 22L28.0235 21.1627L22.1205 19.7004L28.1986 19.4973L22.4808 17.4259L28.5467 17.8593L23.0768 15.2016L29.0642 16.2667L23.902 13.0518L29.7453 14.7369L24.9474 11L30.5826 13.2866L26.2016 9.06872L31.5669 11.9319L27.6508 7.27913L32.6874 10.6874L29.2791 5.65081L33.9319 9.56691L31.0687 4.20163L35.2866 8.58261L33 2.94744L36.7369 7.74532L35.0518 1.902L38.2667 7.06421L37.2016 1.07676L39.8593 6.54673L39.4259 0.480753L41.4973 6.19857L41.7004 0.120518L43.1627 6.02353L44 0Z" fill="url(#paint3_radial_34_16)"/>
+<circle id="pupil" cx="44" cy="22" r="16" fill="black"/>
+<circle id="overlay_2" cx="44" cy="22" r="16" fill="url(#paint4_radial_34_16)"/>
+</g>
+</g>
+</g>
+</g>
+<circle id="lower_cornea_flare" cx="34" cy="34" r="2" fill="white" fill-opacity="0.64"/>
+<circle id="upper_cornea_flare" cx="52" cy="12" r="4" fill="white" fill-opacity="0.75"/>
+<g id="lacrimal_caruncle">
+<g id="caruncle">
+<path id="caruncle_corner" d="M79 20C79 20 84 22 86 22C84 22 79 24 79 24C79 24 79 24 79 22C79 20 79 20 79 20Z" fill="#FFBBBB"/>
+<path id="caruncle_corner_shadow" d="M79 20C79 20 84 22 86 22C84 22 79 24 79 24C79 24 79 24 79 22C79 20 79 20 79 20Z" fill="black" fill-opacity="0.125"/>
+<circle id="caruncle_circle" cx="79" cy="22" r="2" fill="#FFBBBB"/>
+<circle id="caruncle_circle_shadow" cx="79" cy="22" r="2" fill="url(#paint5_radial_34_16)"/>
+</g>
+<circle id="caruncle_flare" cx="80" cy="21" r="1" fill="white" fill-opacity="0.75"/>
+</g>
+<g id="lower_eyelid">
+<path id="eyelid" d="M44 44C28 44 16 22 0 22C16 22 28 42 44 42C60 42 72 22 88 22C72 22 60 44 44 44Z" fill="#FBDCAE"/>
+<path id="eyelid_shadow" d="M44 44C28 44 16 22 0 22C16 22 28 42 44 42C60 42 72 22 88 22C72 22 60 44 44 44Z" fill="url(#paint6_radial_34_16)"/>
+</g>
+<g id="upper_eyelid">
+<path id="eyelid_2" d="M44 0C28 0 16 22 0 22C16 22 28 8 44 8C60 8 72 22 88 22C72 22 60 0 44 0Z" fill="#FBDCAE"/>
+<path id="eyelid_shadow_2" d="M44 0C28 0 16 22 0 22C16 22 28 8 44 8C60 8 72 22 88 22C72 22 60 0 44 0Z" fill="url(#paint7_radial_34_16)"/>
+</g>
+</g>
+</g>
+<defs>
+<radialGradient id="paint0_radial_34_16" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(44 22) rotate(-180) scale(29.5 27.7888)">
+<stop offset="0.338542" stop-color="#FF0000" stop-opacity="0"/>
+<stop offset="1" stop-color="#FF0000" stop-opacity="0.125"/>
+</radialGradient>
+<radialGradient id="paint1_radial_34_16" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(44 22) rotate(-180) scale(29.5 27.7888)">
+<stop offset="0.338542" stop-opacity="0"/>
+<stop offset="1" stop-opacity="0.125"/>
+</radialGradient>
+<radialGradient id="paint2_radial_34_16" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(44 22) rotate(90) scale(22)">
+<stop offset="0.901042" stop-color="white" stop-opacity="0"/>
+<stop offset="0.977273" stop-color="white" stop-opacity="0.25"/>
+</radialGradient>
+<radialGradient id="paint3_radial_34_16" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(44 22) rotate(90) scale(22 43.9499)">
+<stop stop-color="#FFD700" stop-opacity="0.28"/>
+<stop offset="1" stop-color="#FF0000" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint4_radial_34_16" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(44 22) rotate(90) scale(16)">
+<stop offset="0.71875" stop-color="white" stop-opacity="0"/>
+<stop offset="1" stop-color="white" stop-opacity="0.125"/>
+</radialGradient>
+<radialGradient id="paint5_radial_34_16" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(79 22) rotate(90) scale(2)">
+<stop stop-color="white" stop-opacity="0.25"/>
+<stop offset="1" stop-opacity="0.125"/>
+</radialGradient>
+<radialGradient id="paint6_radial_34_16" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(44 22) rotate(90) scale(22 44)">
+<stop stop-color="white" stop-opacity="0"/>
+<stop offset="1" stop-opacity="0.25"/>
+</radialGradient>
+<radialGradient id="paint7_radial_34_16" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(44 22) rotate(-90) scale(22 44)">
+<stop stop-color="white" stop-opacity="0"/>
+<stop offset="1" stop-opacity="0.25"/>
+</radialGradient>
+</defs>
+</svg>

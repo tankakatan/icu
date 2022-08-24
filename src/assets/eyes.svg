@@ -1,0 +1,253 @@
+<svg width="176" height="132" viewBox="0 0 176 132" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- <g id="eyes" clip-path="url(#clip0_6_3)"> -->
+    <g id="eyes">
+        <g id="eye_01">
+            <g class="cornea">
+                <path class="sclera" d="M44 110C28 110 16 132 0 132C16 132 28 154 44 154C60 154 72 132 88 132C72 132 60 110 44 110Z" fill="#EB307C"/>
+                <circle class="iris" cx="44" cy="132" r="22" fill="#FFDC38"/>
+                <circle class="pupil" cx="44" cy="132" r="16" fill="#65318F"/>
+                <circle class="upper_cornea_flare" cx="52" cy="122" r="4" fill="white"/>
+            </g>
+            <g class="lacrimal_caruncle">
+                <path class="caruncle_part" d="M79 130C79 130 84 132 86 132C84 132 79 134 79 134C79 134 79 134 79 132C79 130 79 130 79 130Z" fill="#8EC549"/>
+                <circle class="caruncle" cx="79" cy="132" r="2" fill="#8EC549"/>
+                <circle class="caruncle_flare" cx="80" cy="131" r="1" fill="white"/>
+            </g>
+            <path class="eyelid" d="M44 110C28 110 16 132 0 132C16 132 28 118 44 118C60 118 72 132 88 132C72 132 60 110 44 110Z" fill="#079348"/>
+            <path class="outline" d="M44 110C28 110 16 132 0 132C16 132 28 154 44 154C60 154 72 132 88 132C72 132 60 110 44 110Z" stroke="#079348"/>
+        </g>
+        <g id="eye_02">
+            <g class="cornea">
+                <path class="sclera" d="M132 110C116 110 104 132 88 132C104 132 116 154 132 154C148 154 160 132 176 132C160 132 148 110 132 110Z" fill="#EB307C"/>
+                <circle class="iris" cx="132" cy="132" r="22" fill="#FFDC38"/>
+                <circle class="pupil" cx="132" cy="132" r="16" fill="#65318F"/>
+                <circle class="upper_cornea_flare" cx="140" cy="122" r="4" fill="white"/>
+            </g>
+            <g class="lacrimal_caruncle">
+                <path class="caruncle_part" d="M167 130C167 130 172 132 174 132C172 132 167 134 167 134C167 134 167 134 167 132C167 130 167 130 167 130Z" fill="#8EC549"/>
+                <circle class="caruncle" cx="167" cy="132" r="2" fill="#8EC549"/>
+                <circle class="caruncle_flare" cx="168" cy="131" r="1" fill="white"/>
+            </g>
+            <path class="eyelid" d="M132 110C116 110 104 132 88 132C104 132 116 118 132 118C148 118 160 132 176 132C160 132 148 110 132 110Z" fill="#079348"/>
+            <path class="outline" d="M132 110C116 110 104 132 88 132C104 132 116 154 132 154C148 154 160 132 176 132C160 132 148 110 132 110Z" stroke="#079348"/>
+        </g>
+        <g id="eye_03">
+            <g class="cornea">
+                <path class="sclera" d="M0 88C-16 88 -28 110 -44 110C-28 110 -16 132 0 132C16 132 28 110 44 110C28 110 16 88 0 88Z" fill="#EB307C"/>
+                <circle class="iris" cy="110" r="22" fill="#FFDC38"/>
+                <circle class="pupil" cy="110" r="16" fill="#65318F"/>
+                <circle class="upper_cornea_flare" cx="8" cy="100" r="4" fill="white"/>
+            </g>
+            <g class="lacrimal_caruncle">
+                <path class="caruncle_part" d="M35 108C35 108 40 110 42 110C40 110 35 112 35 112C35 112 35 112 35 110C35 108 35 108 35 108Z" fill="#8EC549"/>
+                <circle class="caruncle" cx="35" cy="110" r="2" fill="#8EC549"/>
+                <circle class="caruncle_flare" cx="36" cy="109" r="1" fill="white"/>
+            </g>
+            <path class="eyelid" d="M0 88C-16 88 -28 110 -44 110C-28 110 -16 96 0 96C16 96 28 110 44 110C28 110 16 88 0 88Z" fill="#079348"/>
+            <path class="outline" d="M0 88C-16 88 -28 110 -44 110C-28 110 -16 132 0 132C16 132 28 110 44 110C28 110 16 88 0 88Z" stroke="#079348"/>
+        </g>
+        <g id="eye_04">
+            <g class="cornea">
+                <path class="sclera" d="M88 88C72 88 60 110 44 110C60 110 72 132 88 132C104 132 116 110 132 110C116 110 104 88 88 88Z" fill="#EB307C"/>
+                <circle class="iris" cx="88" cy="110" r="22" fill="#FFDC38"/>
+                <circle class="pupil" cx="88" cy="110" r="16" fill="#65318F"/>
+                <circle class="lower_cornea_flare" cx="78" cy="122" r="2" fill="white"/>
+                <circle class="upper_cornea_flare" cx="96" cy="100" r="4" fill="white"/>
+            </g>
+            <g class="lacrimal_caruncle">
+                <path class="caruncle_part" d="M123 108C123 108 128 110 130 110C128 110 123 112 123 112C123 112 123 112 123 110C123 108 123 108 123 108Z" fill="#8EC549"/>
+                <circle class="caruncle" cx="123" cy="110" r="2" fill="#8EC549"/>
+                <circle class="caruncle_flare" cx="124" cy="109" r="1" fill="white"/>
+            </g>
+            <path class="eyelid" d="M88 88C72 88 60 110 44 110C60 110 72 96 88 96C104 96 116 110 132 110C116 110 104 88 88 88Z" fill="#079348"/>
+            <path class="outline" d="M88 88C72 88 60 110 44 110C60 110 72 132 88 132C104 132 116 110 132 110C116 110 104 88 88 88Z" stroke="#079348"/>
+        </g>
+        <g id="eye_05">
+            <g class="cornea">
+                <path class="sclera" d="M176 88C160 88 148 110 132 110C148 110 160 132 176 132C192 132 204 110 220 110C204 110 192 88 176 88Z" fill="#EB307C"/>
+                <circle class="iris" cx="176" cy="110" r="22" fill="#FFDC38"/>
+                <circle class="pupil" cx="176" cy="110" r="16" fill="#65318F"/>
+                <circle class="lower_cornea_flare" cx="166" cy="122" r="2" fill="white"/>
+            </g>
+            <path class="eyelid" d="M176 88C160 88 148 110 132 110C148 110 160 96 176 96C192 96 204 110 220 110C204 110 192 88 176 88Z" fill="#079348"/>
+            <path class="outline" d="M176 88C160 88 148 110 132 110C148 110 160 132 176 132C192 132 204 110 220 110C204 110 192 88 176 88Z" stroke="#079348"/>
+        </g>
+        <g id="eye_06">
+            <g class="cornea">
+                <path class="sclera" d="M44 66C28 66 16 88 0 88C16 88 28 110 44 110C60 110 72 88 88 88C72 88 60 66 44 66Z" fill="#EB307C"/>
+                <circle class="iris" cx="44" cy="88" r="22" fill="#FFDC38"/>
+                <circle class="pupil" cx="44" cy="88" r="16" fill="#65318F"/>
+                <circle class="lower_cornea_flare" cx="34" cy="100" r="2" fill="white"/>
+                <circle class="upper_cornea_flare" cx="52" cy="78" r="4" fill="white"/>
+            </g>
+            <g class="lacrimal_caruncle">
+                <path class="caruncle_part" d="M79 86C79 86 84 88 86 88C84 88 79 90 79 90C79 90 79 90 79 88C79 86 79 86 79 86Z" fill="#8EC549"/>
+                <circle class="caruncle" cx="79" cy="88" r="2" fill="#8EC549"/>
+                <circle class="caruncle_flare" cx="80" cy="87" r="1" fill="white"/>
+            </g>
+            <path class="eyelid" d="M44 66C28 66 16 88 0 88C16 88 28 74 44 74C60 74 72 88 88 88C72 88 60 66 44 66Z" fill="#079348"/>
+            <path class="outline" d="M44 66C28 66 16 88 0 88C16 88 28 110 44 110C60 110 72 88 88 88C72 88 60 66 44 66Z" stroke="#079348"/>
+        </g>
+        <g id="eye_07">
+            <g class="cornea">
+                <path class="sclera" d="M132 66C116 66 104 88 88 88C104 88 116 110 132 110C148 110 160 88 176 88C160 88 148 66 132 66Z" fill="#EB307C"/>
+                <circle class="iris" cx="132" cy="88" r="22" fill="#FFDC38"/>
+                <circle class="pupil" cx="132" cy="88" r="16" fill="#65318F"/>
+                <circle class="lower_cornea_flare" cx="122" cy="100" r="2" fill="white"/>
+                <circle class="upper_cornea_flare" cx="140" cy="78" r="4" fill="white"/>
+            </g>
+            <g class="lacrimal_caruncle">
+                <path class="caruncle_part" d="M167 86C167 86 172 88 174 88C172 88 167 90 167 90C167 90 167 90 167 88C167 86 167 86 167 86Z" fill="#8EC549"/>
+                <circle class="caruncle" cx="167" cy="88" r="2" fill="#8EC549"/>
+                <circle class="caruncle_flare" cx="168" cy="87" r="1" fill="white"/>
+            </g>
+            <path class="eyelid" d="M132 66C116 66 104 88 88 88C104 88 116 74 132 74C148 74 160 88 176 88C160 88 148 66 132 66Z" fill="#079348"/>
+            <path class="outline" d="M132 66C116 66 104 88 88 88C104 88 116 110 132 110C148 110 160 88 176 88C160 88 148 66 132 66Z" stroke="#079348"/>
+        </g>
+        <g id="eye_08">
+            <g class="cornea">
+                <path class="sclera" d="M0 44C-16 44 -28 66 -44 66C-28 66 -16 88 0 88C16 88 28 66 44 66C28 66 16 44 0 44Z" fill="#EB307C"/>
+                <circle class="iris" cy="66" r="22" fill="#FFDC38"/>
+                <circle class="pupil" cy="66" r="16" fill="#65318F"/>
+                <circle class="upper_cornea_flare" cx="8" cy="56" r="4" fill="white"/>
+            </g>
+            <g class="lacrimal_caruncle">
+                <path class="caruncle_part" d="M35 64C35 64 40 66 42 66C40 66 35 68 35 68C35 68 35 68 35 66C35 64 35 64 35 64Z" fill="#8EC549"/>
+                <circle class="caruncle" cx="35" cy="66" r="2" fill="#8EC549"/>
+                <circle class="caruncle_flare" cx="36" cy="65" r="1" fill="white"/>
+            </g>
+            <path class="eyelid" d="M0 44C-16 44 -28 66 -44 66C-28 66 -16 52 0 52C16 52 28 66 44 66C28 66 16 44 0 44Z" fill="#079348"/>
+            <path class="outline" d="M0 44C-16 44 -28 66 -44 66C-28 66 -16 88 0 88C16 88 28 66 44 66C28 66 16 44 0 44Z" stroke="#079348"/>
+        </g>
+        <g id="eye_09">
+            <g class="cornea">
+                <path class="sclera" d="M88 44C72 44 60 66 44 66C60 66 72 88 88 88C104 88 116 66 132 66C116 66 104 44 88 44Z" fill="#EB307C"/>
+                <circle class="iris" cx="88" cy="66" r="22" fill="#FFDC38"/>
+                <circle class="pupil" cx="88" cy="66" r="16" fill="#65318F"/>
+                <circle class="lower_cornea_flare" cx="78" cy="78" r="2" fill="white"/>
+                <circle class="upper_cornea_flare" cx="96" cy="56" r="4" fill="white"/>
+            </g>
+            <g class="lacrimal_caruncle">
+                <path class="caruncle_part" d="M123 64C123 64 128 66 130 66C128 66 123 68 123 68C123 68 123 68 123 66C123 64 123 64 123 64Z" fill="#8EC549"/>
+                <circle class="caruncle" cx="123" cy="66" r="2" fill="#8EC549"/>
+                <circle class="caruncle_flare" cx="124" cy="65" r="1" fill="white"/>
+            </g>
+            <path class="eyelid" d="M88 44C72 44 60 66 44 66C60 66 72 52 88 52C104 52 116 66 132 66C116 66 104 44 88 44Z" fill="#079348"/>
+            <path class="outline" d="M88 44C72 44 60 66 44 66C60 66 72 88 88 88C104 88 116 66 132 66C116 66 104 44 88 44Z" stroke="#079348"/>
+        </g>
+        <g id="eye_10">
+            <g class="cornea">
+                <path class="sclera" d="M176 44C160 44 148 66 132 66C148 66 160 88 176 88C192 88 204 66 220 66C204 66 192 44 176 44Z" fill="#EB307C"/>
+                <circle class="iris" cx="176" cy="66" r="22" fill="#FFDC38"/>
+                <circle class="pupil" cx="176" cy="66" r="16" fill="#65318F"/>
+                <circle class="lower_cornea_flare" cx="166" cy="78" r="2" fill="white"/>
+            </g>
+            <path class="eyelid" d="M176 44C160 44 148 66 132 66C148 66 160 52 176 52C192 52 204 66 220 66C204 66 192 44 176 44Z" fill="#079348"/>
+            <path class="outline" d="M176 44C160 44 148 66 132 66C148 66 160 88 176 88C192 88 204 66 220 66C204 66 192 44 176 44Z" stroke="#079348"/>
+        </g>
+        <g id="eye_11">
+            <g class="cornea">
+                <path class="sclera" d="M44 22C28 22 16 44 0 44C16 44 28 66 44 66C60 66 72 44 88 44C72 44 60 22 44 22Z" fill="#EB307C"/>
+                <circle class="iris" cx="44" cy="44" r="22" fill="#FFDC38"/>
+                <circle class="pupil" cx="44" cy="44" r="16" fill="#65318F"/>
+                <circle class="lower_cornea_flare" cx="34" cy="56" r="2" fill="white"/>
+                <circle class="upper_cornea_flare" cx="52" cy="34" r="4" fill="white"/>
+            </g>
+            <g class="lacrimal_caruncle_17">
+                <path class="caruncle_part" d="M79 42C79 42 84 44 86 44C84 44 79 46 79 46C79 46 79 46 79 44C79 42 79 42 79 42Z" fill="#8EC549"/>
+                <circle class="caruncle" cx="79" cy="44" r="2" fill="#8EC549"/>
+                <circle class="caruncle_flare" cx="80" cy="43" r="1" fill="white"/>
+            </g>
+            <path class="eyelid" d="M44 22C28 22 16 44 0 44C16 44 28 30 44 30C60 30 72 44 88 44C72 44 60 22 44 22Z" fill="#079348"/>
+            <path class="outline" d="M44 22C28 22 16 44 0 44C16 44 28 66 44 66C60 66 72 44 88 44C72 44 60 22 44 22Z" stroke="#079348"/>
+        </g>
+        <g id="eye_12">
+            <g class="cornea">
+                <path class="sclera" d="M132 22C116 22 104 44 88 44C104 44 116 66 132 66C148 66 160 44 176 44C160 44 148 22 132 22Z" fill="#EB307C"/>
+                <circle class="iris" cx="132" cy="44" r="22" fill="#FFDC38"/>
+                <circle class="pupil" cx="132" cy="44" r="16" fill="#65318F"/>
+                <circle class="lower_cornea_flare" cx="122" cy="56" r="2" fill="white"/>
+                <circle class="upper_cornea_flare" cx="140" cy="34" r="4" fill="white"/>
+            </g>
+            <g class="lacrimal_caruncle">
+                <path class="caruncle_part" d="M167 42C167 42 172 44 174 44C172 44 167 46 167 46C167 46 167 46 167 44C167 42 167 42 167 42Z" fill="#8EC549"/>
+                <circle class="caruncle" cx="167" cy="44" r="2" fill="#8EC549"/>
+                <circle class="caruncle_flare" cx="168" cy="43" r="1" fill="white"/>
+            </g>
+            <path class="eyelid" d="M132 22C116 22 104 44 88 44C104 44 116 30 132 30C148 30 160 44 176 44C160 44 148 22 132 22Z" fill="#079348"/>
+            <path class="outline" d="M132 22C116 22 104 44 88 44C104 44 116 66 132 66C148 66 160 44 176 44C160 44 148 22 132 22Z" stroke="#079348"/>
+        </g>
+        <g id="eye_13">
+            <g class="cornea">
+                <path class="sclera" d="M0 0C-16 0 -28 22 -44 22C-28 22 -16 44 0 44C16 44 28 22 44 22C28 22 16 0 0 0Z" fill="#EB307C"/>
+                <circle class="iris" cy="22" r="22" fill="#FFDC38"/>
+                <circle class="pupil" cy="22" r="16" fill="#65318F"/>
+                <circle class="upper_cornea_flare" cx="8" cy="12" r="4" fill="white"/>
+            </g>
+            <g class="lacrimal_caruncle">
+                <path class="caruncle_part" d="M35 20C35 20 40 22 42 22C40 22 35 24 35 24C35 24 35 24 35 22C35 20 35 20 35 20Z" fill="#8EC549"/>
+                <circle class="caruncle" cx="35" cy="22" r="2" fill="#8EC549"/>
+                <circle class="caruncle_flare" cx="36" cy="21" r="1" fill="white"/>
+            </g>
+            <path class="eyelid" d="M0 0C-16 0 -28 22 -44 22C-28 22 -16 8 0 8C16 8 28 22 44 22C28 22 16 0 0 0Z" fill="#079348"/>
+            <path class="outline" d="M0 0C-16 0 -28 22 -44 22C-28 22 -16 44 0 44C16 44 28 22 44 22C28 22 16 0 0 0Z" stroke="#079348"/>
+        </g>
+        <g id="eye_14">
+            <g class="cornea">
+                <path class="sclera" d="M88 0C72 0 60 22 44 22C60 22 72 44 88 44C104 44 116 22 132 22C116 22 104 0 88 0Z" fill="#EB307C"/>
+                <circle class="iris" cx="88" cy="22" r="22" fill="#FFDC38"/>
+                <circle class="pupil" cx="88" cy="22" r="16" fill="#65318F"/>
+                <circle class="lower_cornea_flare" cx="78" cy="34" r="2" fill="white"/>
+                <circle class="upper_cornea_flare" cx="96" cy="12" r="4" fill="white"/>
+            </g>
+            <g class="lacrimal_caruncle">
+                <path class="caruncle_part" d="M123 20C123 20 128 22 130 22C128 22 123 24 123 24C123 24 123 24 123 22C123 20 123 20 123 20Z" fill="#8EC549"/>
+                <circle class="caruncle" cx="123" cy="22" r="2" fill="#8EC549"/>
+                <circle class="caruncle_flare" cx="124" cy="21" r="1" fill="white"/>
+            </g>
+            <path class="eyelid" d="M88 0C72 0 60 22 44 22C60 22 72 8 88 8C104 8 116 22 132 22C116 22 104 0 88 0Z" fill="#079348"/>
+            <path class="outline" d="M88 0C72 0 60 22 44 22C60 22 72 44 88 44C104 44 116 22 132 22C116 22 104 0 88 0Z" stroke="#079348"/>
+        </g>
+        <g id="eye_15">
+            <g class="cornea">
+                <path class="sclera" d="M176 0C160 0 148 22 132 22C148 22 160 44 176 44C192 44 204 22 220 22C204 22 192 0 176 0Z" fill="#EB307C"/>
+                <circle class="iris" cx="176" cy="22" r="22" fill="#FFDC38"/>
+                <circle class="pupil" cx="176" cy="22" r="16" fill="#65318F"/>
+                <circle class="lower_cornea_flare" cx="166" cy="34" r="2" fill="white"/>
+            </g>
+            <path class="eyelid" d="M176 0C160 0 148 22 132 22C148 22 160 8 176 8C192 8 204 22 220 22C204 22 192 0 176 0Z" fill="#079348"/>
+            <path class="outline" d="M176 0C160 0 148 22 132 22C148 22 160 44 176 44C192 44 204 22 220 22C204 22 192 0 176 0Z" stroke="#079348"/>
+        </g>
+        <g id="eye_16">
+            <g class="cornea">
+                <path class="sclera" d="M44 -22C28 -22 16 0 0 0C16 0 28 22 44 22C60 22 72 0 88 0C72 0 60 -22 44 -22Z" fill="#EB307C"/>
+                <circle class="iris" cx="44" r="22" fill="#FFDC38"/>
+                <circle class="pupil" cx="44" r="16" fill="#65318F"/>
+                <circle class="lower_cornea_flare" cx="34" cy="12" r="2" fill="white"/>
+            </g>
+            <g class="lacrimal_caruncle">
+                <path class="caruncle_part" d="M79 -2C79 -2 84 0 86 0C84 0 79 2 79 2C79 2 79 2 79 0C79 -2 79 -2 79 -2Z" fill="#8EC549"/>
+                <circle class="caruncle" cx="79" r="2" fill="#8EC549"/>
+            </g>
+            <path class="outline" d="M44 -22C28 -22 16 0 0 0C16 0 28 22 44 22C60 22 72 0 88 0C72 0 60 -22 44 -22Z" stroke="#079348"/>
+        </g>
+        <g id="eye_17">
+            <g class="cornea">
+                <path class="sclera" d="M132 -22C116 -22 104 0 88 0C104 0 116 22 132 22C148 22 160 0 176 0C160 0 148 -22 132 -22Z" fill="#EB307C"/>
+                <circle class="iris" cx="132" r="22" fill="#FFDC38"/>
+                <circle class="pupil" cx="132" r="16" fill="#65318F"/>
+                <circle class="lower_cornea_flare" cx="122" cy="12" r="2" fill="white"/>
+            </g>
+            <g class="lacrimal_caruncle">
+                <path class="caruncle_part" d="M167 -2C167 -2 172 0 174 0C172 0 167 2 167 2C167 2 167 2 167 0C167 -2 167 -2 167 -2Z" fill="#8EC549"/>
+                <circle class="caruncle" cx="167" r="2" fill="#8EC549"/>
+            </g>
+            <path class="outline" d="M132 -22C116 -22 104 0 88 0C104 0 116 22 132 22C148 22 160 0 176 0C160 0 148 -22 132 -22Z" stroke="#079348"/>
+        </g>
+    </g>
+    <!-- <defs>
+        <clipPath id="clip0_6_3">
+            <rect width="176" height="132" fill="white"/>
+        </clipPath>
+    </defs> -->
+</svg>

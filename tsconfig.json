@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+      "outDir": "dist",
+      "module": "commonjs",
+      "target": "ESNext",
+      "lib": ["es6", "dom"],
+      "sourceMap": true,
+      "allowJs": false,
+      "jsx": "react",
+      "moduleResolution": "node",
+      "rootDir": "src",
+      "noImplicitReturns": false,
+      "noImplicitThis": true,
+      "noImplicitAny": true,
+      "strictNullChecks": true
+    },
+    "exclude": [
+      "node_modules",
+      "dist",
+      "scripts"
+    ],
+    "types": [
+      "node_modules/@types/**/*",
+      "src/@types/*"
+    ]
+  }
+  

@@ -1,0 +1,33 @@
+{
+  "name": "icu",
+  "version": "1.0.0",
+  "description": "A website that watches you",
+  "scripts": {
+    "build": "parcel build src/index.html",
+    "start": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tankakatan/icu.git"
+  },
+  "author": "@neodequate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tankakatan/icu/issues"
+  },
+  "homepage": "https://github.com/tankakatan/icu#readme",
+  "devDependencies": {
+    "@parcel/resolver-glob": "^2.7.0",
+    "@parcel/transformer-typescript-tsc": "^2.7.0",
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "parcel": "^2.7.0",
+    "process": "^0.11.10",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
