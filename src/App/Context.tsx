@@ -34,7 +34,7 @@ export const ProvideEyeArrayContext= ({children}: {children: ReactNode}) => {
         2 * window.innerHeight / (scale * height) + 1
     ), [height]);
 
-    const [scale, setScale] = useState<number>(8);
+    const [scale, setScale] = useState<number>(2);
     const [eyesInRow, setEyesInRow] = useState<number>(getEyesInRow());
     const [eyesInCol, setEyesInCol] = useState<number>(getEyesInCol());
 
