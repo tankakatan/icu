@@ -18,7 +18,7 @@ export const EyeArrayContext = createContext<EyeArrayProps>({
     height: 44,
     eyesInRow: 1,
     eyesInCol: 1,
-    setScale: () => undefined
+    setScale: () => undefined,
 });
 
 export const useEyeArrayContext = () => useContext(EyeArrayContext);
@@ -34,7 +34,7 @@ export const ProvideEyeArrayContext= ({children}: {children: ReactNode}) => {
         2 * window.innerHeight / (scale * height) + 1
     ), [height]);
 
-    const [scale, setScale] = useState<number>(2);
+    const [scale, setScale] = useState<number>(8);
     const [eyesInRow, setEyesInRow] = useState<number>(getEyesInRow());
     const [eyesInCol, setEyesInCol] = useState<number>(getEyesInCol());
 
@@ -49,7 +49,7 @@ export const ProvideEyeArrayContext= ({children}: {children: ReactNode}) => {
         width,
         height,
         eyesInRow,
-        eyesInCol
+        eyesInCol,
     };
 
     return <EyeArrayContext.Provider value={context}>{children}</EyeArrayContext.Provider>;
